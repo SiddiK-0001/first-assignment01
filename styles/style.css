@@ -274,3 +274,7 @@ a{
     align-items: center;
     gap: 20px;
 }
+
+a:hover{
+    background-color: rgb(233, 233, 229);
+}
